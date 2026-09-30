@@ -1,0 +1,14 @@
+C:\Users\nano_\OneDrive\Documents\UMA\4º.1er Cuatri\POO\StudentTaskManager\bin\Debug\net10.0\StudentTaskManager.exe
+C:\Users\nano_\OneDrive\Documents\UMA\4º.1er Cuatri\POO\StudentTaskManager\bin\Debug\net10.0\StudentTaskManager.deps.json
+C:\Users\nano_\OneDrive\Documents\UMA\4º.1er Cuatri\POO\StudentTaskManager\bin\Debug\net10.0\StudentTaskManager.runtimeconfig.json
+C:\Users\nano_\OneDrive\Documents\UMA\4º.1er Cuatri\POO\StudentTaskManager\bin\Debug\net10.0\StudentTaskManager.dll
+C:\Users\nano_\OneDrive\Documents\UMA\4º.1er Cuatri\POO\StudentTaskManager\bin\Debug\net10.0\StudentTaskManager.pdb
+C:\Users\nano_\OneDrive\Documents\UMA\4º.1er Cuatri\POO\StudentTaskManager\obj\Debug\net10.0\StudentTaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nano_\OneDrive\Documents\UMA\4º.1er Cuatri\POO\StudentTaskManager\obj\Debug\net10.0\StudentTaskManager.AssemblyInfoInputs.cache
+C:\Users\nano_\OneDrive\Documents\UMA\4º.1er Cuatri\POO\StudentTaskManager\obj\Debug\net10.0\StudentTaskManager.AssemblyInfo.cs
+C:\Users\nano_\OneDrive\Documents\UMA\4º.1er Cuatri\POO\StudentTaskManager\obj\Debug\net10.0\StudentTaskManager.csproj.CoreCompileInputs.cache
+C:\Users\nano_\OneDrive\Documents\UMA\4º.1er Cuatri\POO\StudentTaskManager\obj\Debug\net10.0\StudentTaskManager.dll
+C:\Users\nano_\OneDrive\Documents\UMA\4º.1er Cuatri\POO\StudentTaskManager\obj\Debug\net10.0\refint\StudentTaskManager.dll
+C:\Users\nano_\OneDrive\Documents\UMA\4º.1er Cuatri\POO\StudentTaskManager\obj\Debug\net10.0\StudentTaskManager.pdb
+C:\Users\nano_\OneDrive\Documents\UMA\4º.1er Cuatri\POO\StudentTaskManager\obj\Debug\net10.0\StudentTaskManager.genruntimeconfig.cache
+C:\Users\nano_\OneDrive\Documents\UMA\4º.1er Cuatri\POO\StudentTaskManager\obj\Debug\net10.0\ref\StudentTaskManager.dll
